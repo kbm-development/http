@@ -1,5 +1,5 @@
 {
-  "name": "@kbm/http",
+  "name": "@kbmapp/http",
   "version": "1.0.0",
   "description": "kbm http server",
   "main": "index.js",
