@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+ssh://git@github.com/kbm-development/http.git"
   },
+  "homepage": "https://github.com/kbm-development/http",
   "keywords": [
     "http",
     "server"
