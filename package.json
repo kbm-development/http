@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+ssh://git@github.com/kbm-development/http.git"
   },
-  "homepage": "https://github.com/kbm-development/http",
+  "homepage": "https://github.com/kbm-development/http#readme",
   "keywords": [
     "http",
     "server"
@@ -19,6 +19,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/kbm-development/http/issues"
-  },
-  "homepage": "https://github.com/kbm-development/http#readme"
+  }
 }
